@@ -6,11 +6,11 @@ def using_unshift(arr, str)
   arr.unshift(str)
 end
 
-def using_push(arr, str)
-  arr.push(str)
+def using_pop(arr)
+  arr.pop
 end
 
-def using_push(arr, str)
+def pop_with_arg(arr)
   arr.push(str)
 end
 
