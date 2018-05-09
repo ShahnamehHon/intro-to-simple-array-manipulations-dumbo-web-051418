@@ -10,3 +10,7 @@ new_nightborhoods = "Brooklyn Heights"
 neighborhoods_in_northwest_brooklyn.unshift(new_nightborhoods)
 end
 
+def using_pop(arr, str)
+  
+end
+
