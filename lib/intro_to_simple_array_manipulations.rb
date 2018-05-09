@@ -23,7 +23,7 @@ def shift_with_arg(arr)
 end
   
 def using_concat(arr1, arr2)
-  arr1.concat(arr2)
+  arr2.concat(arr1)
 end
 
 def using_push(arr, str)
