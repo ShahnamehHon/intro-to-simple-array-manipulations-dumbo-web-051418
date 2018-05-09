@@ -11,11 +11,11 @@ def using_pop(arr)
 end
 
 def pop_with_arg(arr)
-  arr.push(str)
+  arr.pop(2)
 end
 
-def using_push(arr, str)
-  arr.push(str)
+def using_shift(arr)
+  arr.shift
 end
 
 def using_push(arr, str)
